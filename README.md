@@ -1,2 +1,8 @@
-# CoinCare-Extensao
-Repositório para o projeto de extensão UniFil, denominado de CoinCare
+# Projeto CoinCare - Extensão Curricular
+## O que é o CoinCare?
+- A missão da CoinCare é suprir as demandas da comunidade no que diz respeito à gestão de recursos financeiros. Compreendemos que inúmeras pessoas enfrentam obstáculos cotidianos em relação às suas finanças, e é por essa razão que nos comprometemos a apresentar uma solução que tenha um impacto positivo nas vidas de todos.
+## Como o CoinCare auxilia a sociedade?
+- Com o CoinCare, os usuários da comunidade poderão gerenciar suas finanças, sejam gastos ou receitas que ocorram durante o mês, contas fixas ou esporádicas, o CoinCare auxilia no controle e gerenciamento dessas movimentações, permitindo que o usuário possua maior controle sobre suas economias e consiga controlar quais são suas pendências, obrigações financeiras e também, principalmente, quanto dinheiro ainda possui livre para gastar.
+## O que já foi feito até agora?
+- Primeiramente, fizemos um relatório descrevendo qual o tema e objetivo do nosso projeto, visando passar uma visão geral aos leitores sobre qual necessidade o nosso projeto pretende atender e como isso será feito. Em seguida, organizamos um blogger onde inserimos todas essas informações em formato de blog, a fim de elucidar o entendimento de nossos leitores por meio deste formato mais intuitivo e envolvente. Também exibimos nossas pesquisas de comportamentos financeiros, que foram realizadas a fim de analisar padrões de gerenciamento financeiro e detectar em quais pontos a maioria da comunidade que queremos atingir está pecando no quesito de gestão financeira.
+- Confira nosso blog, o link é https://tinyurl.com/CoinCare  
